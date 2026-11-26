@@ -236,3 +236,8 @@ venv/
 
 # Environment variables
 .env
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
